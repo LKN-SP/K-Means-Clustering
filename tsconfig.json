@@ -1,0 +1,6 @@
+{
+  "name": "K-Means Clustering Game",
+  "description": "An interactive, educational single-player game to learn and visualize k-means clustering step-by-step.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
